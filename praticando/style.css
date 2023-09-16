@@ -120,7 +120,7 @@ li.dispositivos__lista__item{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 18rem;
+    margin: 0 17.5rem;
 }
 .lista__link{
     text-decoration: none;
